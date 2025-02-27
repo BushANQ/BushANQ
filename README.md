@@ -35,9 +35,9 @@ Technology stack
 ## 个人目标
 
 Personal goals
-- 并研究各类企业端基于机器学习的安全防护。
+- 研究各类企业端基于机器学习的安全防护。
 
-And research on various types of enterprise-side machine-learning based security protection.
+research on various types of enterprise-side machine-learning based security protection.
 - 提供原创的教程和解决方案，分享关于计算机科学的宝贵知识。
 
 Offers original tutorials and solutions to share valuable knowledge about computer science.
