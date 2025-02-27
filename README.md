@@ -1,7 +1,31 @@
-<h1 align=“center”>Hi 👋 ， 我是 BushSEC</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bushsec&label=Profile%20views&color=0e75b6&style=flat" alt="bushsec" /> </p>
+# 欢迎来到 BushSEC 的 GitHub 页面！
+Welcome to BushSEC's GitHub page!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bushsec" alt="bushsec" /></a> </p>
-语言和工具：
+你好！我是 **BushSEC**，一名信息安全领域的学生和研究者，专注于计算机安全、渗透测试、以及免杀相关的技术和研究。
+Hello! I'm **BushSEC**, an information security student and researcher specializing in computer security, penetration testing, and kill-free related techniques and research.
 
-<p align=“left”> <a href=“https://aws.amazon.com” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg” alt=“aws” width=“40” height=“40”/> </a> <a href=“https://www.cprogramming.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg” alt=“c” width=“40” height=“40”/> </a> <a href=“https://www.w3schools.com/css/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg” alt=“css3” width=“40” height=“40”/> </a> <a href=“https://www.docker.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg” alt=“docker” width=“40” height=“40”/> </a> <a href=“https://www.elastic.co” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg” alt=“elasticsearch” width=“40” height=“40”/> </a> <a href=“https://www.w3.org/html/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg” alt=“html5” width=“40” height=“40”/> </a> <a href=“https://www.elastic.co/kibana” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg” alt=“kibana” width=“40” height=“40”/> </a> <a href=“https://www.linux.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg” alt=“linux” width=“40” height=“40”/> </a> <a href=“https://www.mongodb.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg” alt=“mongodb” width=“40” height=“40”/> </a> <a href=“https://www.mysql.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg” alt=“mysql” width=“40” height=“40”/> </a> <a href=“https://www.nginx.com” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg” alt=“nginx” width=“40” height=“40”/> </a> <a href=“https://nodejs.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg” alt=“nodejs” width=“40” height=“40”/> </a> <a href=“https://www.oracle.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg” alt=“oracle” width=“40” height=“40”/> </a> <a href=“https://www.python.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg” alt=“python” width=“40” height=“40”/> </a> <a href=“https://redis.io” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg” alt=“redis” width=“40” height=“40”/> </a> <a href=“https://vuejs.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg” alt=“vuejs” width=“40” height=“40”/> </a> </p>
+在这个 GitHub 页面，你将能找到各类有意思的小玩意。我致力于开发与信息安全相关的工具，提升自己在安全领域的知识和技能，并与社区分享我的成果和经验。
+On this GitHub page you will be able to find all kinds of interesting gadgets. I am dedicated to developing tools related to information security, improving my knowledge and skills in the field of security, and sharing my results and experiences with the community.
+
+## 项目内容
+Project content
+
+- **安全研究项目**：涉及先进的静态启发式杀毒引擎、机器学习在安全防护中的应用等领域。
+**Security research projects**: in the areas of advanced static heuristic antivirus engines, applications of machine learning in security protection.
+- **系统与安全工具**：我也开发了一些实用的工具，帮助提升信息安全防护、漏洞检测和渗透测试的效率。
+**Systems and Security Tools**: I have also developed practical tools to help improve the efficiency of information security protection, vulnerability detection and penetration testing.
+
+## 技术栈
+Technology stack
+
+- **安全技术**：免杀、恶意软件检测等
+**Security technologies**: Bypass, malware detection, etc.
+- **框架与工具**：Elasticsearch、Uptime Kuma、Typecho、Nextcloud 等
+**Frameworks and tools**: Elasticsearch, Uptime Kuma, Typecho, Nextcloud, etc.
+
+## 个人目标
+Personal goals
+- 并研究各类企业端基于机器学习的安全防护。
+And research on various types of enterprise-side machine-learning based security protection.
+- 提供原创的教程和解决方案，分享关于计算机科学的宝贵知识。
+Offers original tutorials and solutions to share valuable knowledge about computer science.
