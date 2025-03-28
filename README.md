@@ -14,9 +14,9 @@ On this GitHub page you will be able to find all kinds of interesting gadgets. I
 
 Project content
 
-- **安全研究项目**：涉及先进的静态启发式杀毒引擎、机器学习在安全防护中的应用等领域。
+- **安全研究项目**：机器学习在安全防护中的应用等领域。渗透测试，红蓝对抗等
 
-**Security research projects**: in the areas of advanced static heuristic antivirus engines, applications of machine learning in security protection.
+**Security research projects**: applications of machine learning in security protection.
 - **系统与安全工具**：我也开发了一些实用的工具，帮助提升信息安全防护、漏洞检测和渗透测试的效率。
 
 **Systems and Security Tools**: I have also developed practical tools to help improve the efficiency of information security protection, vulnerability detection and penetration testing.
