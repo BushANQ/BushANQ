@@ -1,5 +1,5 @@
 # 欢迎来到 BushSEC 的 GitHub 页面！
-
+<img align='right' src="https://github-readme-stats.zohan.tech/api?username=BushANQ&theme=blue-green&show_icons=true">
 Welcome to BushSEC's GitHub page!
 
 你好！我是 **BushSEC**，一名信息安全领域的学生和研究者，专注于计算机安全、渗透测试、以及免杀相关的技术和研究。
@@ -9,8 +9,6 @@ Hello! I'm **BushSEC**, an information security student and researcher specializ
 在这个 GitHub 页面，你将能找到各类有意思的小玩意。我致力于开发与信息安全相关的工具，提升自己在安全领域的知识和技能，并与社区分享我的成果和经验。
 
 On this GitHub page you will be able to find all kinds of interesting gadgets. I am dedicated to developing tools related to information security, improving my knowledge and skills in the field of security, and sharing my results and experiences with the community.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BushANQ&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 项目内容
 
