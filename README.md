@@ -1,6 +1,6 @@
 # About Me
 
-<img align='right' src="https://github-readme-stats.zohan.tech/api?username=BushANQ&theme=blue-green&show_icons=true&locale=cn">
+<img align='right' src="https://github-readme-stats.zohan.tech/api?username=BushANQ&theme=blue-green&show_icons=true&locale=cn&include_all_commits=true">
 
 - My ID is BushSEC
 - Who Am I：一名信息安全领域的学生和研究者，专注于信息安全、渗透测试、以及免杀相关的技术和研究。
