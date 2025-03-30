@@ -10,6 +10,8 @@ Hello! I'm **BushSEC**, an information security student and researcher specializ
 
 On this GitHub page you will be able to find all kinds of interesting gadgets. I am dedicated to developing tools related to information security, improving my knowledge and skills in the field of security, and sharing my results and experiences with the community.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BushANQ)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 项目内容
 
 Project content
