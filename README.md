@@ -3,7 +3,7 @@
 <img align='right' src="https://github-readme-stats.zohan.tech/api?username=BushANQ&theme=blue-green&show_icons=true&locale=cn">
 
 - My ID is BushSEC
-- Who AM I?：一名信息安全领域的学生和研究者，专注于信息安全、渗透测试、以及免杀相关的技术和研究。
+- Who AM I：一名信息安全领域的学生和研究者，专注于信息安全、渗透测试、以及免杀相关的技术和研究。
 - My Blog: [https://bushsec.cn](https://bushsec.cn)
 - 在这个 GitHub 页面，你将能找到各类有意思的小玩意。我致力于开发与信息安全相关的工具，提升自己在安全领域的知识和技能，并与社区分享我的成果和经验。
 
