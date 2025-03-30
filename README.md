@@ -1,5 +1,5 @@
 # 欢迎来到 BushSEC 的 GitHub 页面！
-<img align='right' src="https://github-readme-stats.zohan.tech/api?username=BushANQ&theme=blue-green&show_icons=true">
+<img align='right' src="https://github-readme-stats.zohan.tech/api?username=BushANQ&theme=blue-green&show_icons=true&locale=cn">
 Welcome to BushSEC's GitHub page!
 
 你好！我是 **BushSEC**，一名信息安全领域的学生和研究者，专注于计算机安全、渗透测试、以及免杀相关的技术和研究。
