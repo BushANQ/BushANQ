@@ -25,12 +25,7 @@ Project content
 
 Technology stack
 
-- **安全技术**：免杀、恶意软件检测等
-
-**Security technologies**: Bypass, malware detection, etc.
-- **框架与工具**：Elasticsearch、Uptime Kuma、Typecho、Nextcloud 等
-
-**Frameworks and tools**: Elasticsearch, Uptime Kuma, Typecho, Nextcloud, etc.
+- **技术栈**：免杀、恶意软件检测
 
 ## 个人目标
 
