@@ -5,6 +5,8 @@
 - My ID is BushSEC
 - Who Am I：一名信息安全领域的学生和研究者，专注于安全防护、渗透测试、以及免杀相关的技术和研究。
 - My Blog: [https://bushsec.cn](https://bushsec.cn)
+- CVE监测服务: [https://cve.bushsec.cn](https://cve.bushsec.cn)
+- 杀毒软件在线识别服务：[https://av.bushsec.cn](https://av.bushsec.cn)
 - 在这个 GitHub 页面，你将能找到各类有意思的小玩意。我致力于开发与信息安全相关的工具，提升自己在安全领域的知识和技能，并与社区分享我的成果和经验。
 
 ## Personal Goals
