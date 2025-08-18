@@ -26,6 +26,10 @@
 [![CVE Monitor](https://img.shields.io/badge/🔍_CVE_Monitor-cve.bushsec.cn-FF4444?style=for-the-badge&labelColor=000000)](https://cve.bushsec.cn)
 [![AV Detection](https://img.shields.io/badge/🛡️_AV_Detection-av.bushsec.cn-00C851?style=for-the-badge&labelColor=000000)](https://av.bushsec.cn)
 
+#### 目前还维护着一个威胁情报平台，暂时未对外开放注册，提供按 tag 下载样本的功能，以及结合各大权威源的 IP、域名、哈希值等常规情报检索。熟人可以直接通过联系我来获取哈
+
+
+[![Threat Intelligence](https://img.shields.io/badge/⚡_Threat_Intelligence-threat.bushsec.cn-00C851?style=for-the-badge&labelColor=000000)](https://threat.bushsec.cn)
 </div>
 </div>
 
