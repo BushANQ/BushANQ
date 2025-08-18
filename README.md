@@ -32,7 +32,7 @@
 ---
 
 ### 💬 "この世界は騒がし過ぎるから、聞かないで、見ないで、構わないで。そして前に進め！"
-> "这个世界太吵，别听，别看，别吵，然后向前走。"
+> "这个世界太吵，别听，别看，别管，然后向前走。"
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
