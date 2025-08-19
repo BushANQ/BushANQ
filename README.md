@@ -15,11 +15,30 @@
 - 🎯 **我的技能**: Penetration Testing | Malware Analysis | Frontend Development Basics
 - 🌟 **正在学习**: ML Security(NGAV) | Kernel Driver Development | Active Directory Penetration | Evasion Techniques
 
+---
+
+### 💻 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+</p>
+
+---
+### 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.zohan.tech/api?username=BushANQ&theme=blue-green&show_icons=true&locale=cn&include_all_commits=true" alt="GitHub Stats">
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Links" width="30" /> **在线服务**
+---
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Links" width="30" /> **Online Services**
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/🌐_Personal_Blog-bushsec.cn-4285F4?style=for-the-badge&labelColor=000000)](https://bushsec.cn)
@@ -30,6 +49,7 @@
 
 
 [![Threat Intelligence](https://img.shields.io/badge/⚡_Threat_Intelligence-threat.bushsec.cn-00C851?style=for-the-badge&labelColor=000000)](https://threat.bushsec.cn)
+
 </div>
 </div>
 
