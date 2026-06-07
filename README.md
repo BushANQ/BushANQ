@@ -11,7 +11,7 @@
 > **🔒 专注于信息安全的学生与研究者**  
 > 致力于探索前沿安全技术，探索Agentic系统在安全领域的应用，分享研究成果与学习经验
 
-- 🔐 **研究方向**: Information Security Research | Agent Harness
+- 🔐 **研究方向**: Information Security Research | Agent Harness | AI Security
 - 🎯 **我的技能**: Penetration Testing | Malware Analysis | Frontend Development Basics
 - 🌟 **正在学习**: ML Security(NGAV) | Kernel Driver Development | Active Directory Penetration | Evasion Techniques | Agent Harness
 
