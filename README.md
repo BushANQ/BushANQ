@@ -8,7 +8,7 @@
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me
-> ** 专注于信息安全的学生与研究者**  
+> 专注于信息安全的学生与研究者
 > 致力于探索前沿安全技术，探索Agentic系统在安全领域的应用，分享研究成果与学习经验
 
 -  **研究方向**: Information Security Research | Agent Harness | AI Security
