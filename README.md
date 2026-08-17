@@ -8,16 +8,16 @@
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me
-> **🔒 专注于信息安全的学生与研究者**  
+> ** 专注于信息安全的学生与研究者**  
 > 致力于探索前沿安全技术，探索Agentic系统在安全领域的应用，分享研究成果与学习经验
 
-- 🔐 **研究方向**: Information Security Research | Agent Harness | AI Security
-- 🎯 **我的技能**: Penetration Testing | Malware Analysis | Frontend Development Basics
-- 🌟 **正在学习**: ML Security(NGAV) | Kernel Driver Development | Active Directory Penetration | Evasion Techniques | Agent Harness
+-  **研究方向**: Information Security Research | Agent Harness | AI Security
+-  **我的技能**: Penetration Testing | Malware Analysis | Frontend Development Basics
+-  **正在学习**: ML Security(NGAV) | Kernel Driver Development | Active Directory Penetration | Evasion Techniques | Agent Harness
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -30,7 +30,7 @@
 </p>
 
 ---
-### 📊 GitHub Analytics
+###  GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.zohan.tech/api?username=BushANQ&theme=blue-green&show_icons=true&locale=cn&include_all_commits=true" alt="GitHub Stats">
 </div>
